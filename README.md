@@ -9,7 +9,7 @@ Visma has a central service collecting user behaviour. The reason is because the
 What is Snowplow? All in all, it is a service that tracks, collects and stores behavioral data in a database (read more [here](https://snowplowanalytics.com/)).
 
 ## The Challenge
-The challenge will demonstrate your knowledge in creating a SQL model as well as your ability to work with Git. We will be using the following dataset [here](https://console.cloud.google.com/bigquery?authuser=0&project=snowplow-cto-office). The link should lead you to our GCP instance of Snowplow and in the explorer you should see a dataset called **snowplow-cto-office > snowplow_hackathonpi**. 
+The challenge will demonstrate your knowledge in creating a SQL model as well as your ability to work with Git. We will be using the following dataset [here](https://console.cloud.google.com/bigquery?authuser=0&project=snowplow-cto-office&ws=!1m4!1m3!3m2!1ssnowplow-cto-office!2ssnowplow_hackathonPI). The link should lead you to our GCP instance of Snowplow and in the explorer you should see a dataset called **snowplow-cto-office > snowplow_hackathonpi**. 
 
 The data is a hashed dataset from an existing product using Snowplow. This product is an ecommerce product in the Norwegian market. To read more about the data model, have a look at this publicly available event dictionary about definitions, [here](https://docs.google.com/spreadsheets/d/1G_Xqdj3qo8MqD5T_YAoMjYGPD380FrqkNbvYBlIkF-A)
 
